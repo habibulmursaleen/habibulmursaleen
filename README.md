@@ -1,4 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is S M Habibul Mursaleen Chowdhury =======================================================================================================================================================  Web Developer -------------  I enjoy designing interfaces that are not only visually appealing but also highly functional. I am deeply passionate about becoming an engineer who not only designs systems but aims to impact a massive number of people positively. I work with React, Next, Typescript, Javascript and Java  * 🌍  I'm based in Oslo, Norway * 🖥️  See my portfolio at [Portfolio](http://app.netlify.com/teams/habibulmursaleen/overview) * ✉️  You can contact me at [habibulmursaleen97@gmail.com](mailto:habibulmursaleen97@gmail.com) * 🧠  I'm learning Spring Boot
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is S M Habibul Mursaleen Chowdhury
+=======================================================================================================================================================
+
+Web Developer
+-------------
+
+I enjoy designing interfaces that are not only visually appealing but also highly functional. I am deeply passionate about becoming an engineer who not only designs systems but aims to impact a massive number of people positively. I work with React, Next, Typescript, Javascript and Java
+
+*   🌍  I'm based in Oslo, Norway
+*   🖥️  See my portfolio at [Portfolio](http://app.netlify.com/teams/habibulmursaleen/overview)
+*   ✉️  You can contact me at [habibulmursaleen97@gmail.com](mailto:habibulmursaleen97@gmail.com) * 🧠  I'm learning Spring Boot
 
 <a href="https://www.github.com/habibulmursaleen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/habibulmursaleen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
