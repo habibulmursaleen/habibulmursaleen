@@ -34,7 +34,7 @@ Let's connect, collaborate, and make some impactful contributions to the world o
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<div valign="top" width="50%">
 
 - 🔭 I’m currently based on Oslo, Norway  
   
@@ -47,12 +47,7 @@ Let's connect, collaborate, and make some impactful contributions to the world o
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</div>  
 
 <br/>  
 
