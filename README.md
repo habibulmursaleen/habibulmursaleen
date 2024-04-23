@@ -72,8 +72,8 @@ Let's connect, collaborate, and make some impactful contributions to the world o
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnet-original.svg" alt=".NET Core" height="50" /></a>  
-<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cypressio-icon.svg" alt="Cypress" height="50" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET Core" height="50" /></a>  
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://cdn.sanity.io/images/o0o2tn5x/production/13b9c8412093e2f0cdb5495e1f59144967fa1664-512x512.jpg" alt="Cypress" height="50" /></a>
 </div>
 
 
