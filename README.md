@@ -23,7 +23,7 @@ Software Developer
 ### Glad to see you here!  
 Hey there, fellow developers! 👨‍💻 I'm S M Habibul Mursaleen Chowdhury, a software engineer passionate about crafting elegant and functional interfaces. My GitHub is a reflection of my commitment to clean, scalable code and my journey in exploring the vast world of web development.
 
-🛠️ Proficient in React.js, Next.js, and various UI libraries, I love diving into the front-end intricacies to create delightful user experiences. But that's not where it stops - I'm actively expanding my skills to backend technologies like Java Spring Boot and exploring the wonders of cloud infrastructures, particularly Azure services.
+🛠️ Proficient in React.js, Next.js, and various UI libraries, I love diving into the front-end intricacies to create delightful user experiences. But that's not where it stops - I'm actively expanding my skills to backend technologies like .NET Core and Java Spring Boot and exploring the wonders of cloud infrastructures, particularly Azure services.
 
 📈 You'll find repositories showcasing my work on scalable web applications, integration of industry-standard code build tools, and automation through CI/CD pipelines. I believe in continuous learning and the power of collaborative coding.
 
@@ -39,10 +39,10 @@ Let's connect, collaborate, and make some impactful contributions to the world o
 - 🔭 I’m currently based on Oslo, Norway  
   
 
-- 🌱 I’m currently learning Java Spring Boot  
+- 🌱 I’m currently working as Developer at Kapital Kontroll. 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Currently working with .NET Core - React - Azure following Clean architecture and Domain-driven-Design. 
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
