@@ -19,8 +19,7 @@ Software Developer
 <a href="https://medium.com/@chowdhurysmhabibulmursaleen" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-  
-[Portfolio Web App]()!
+
 
 
 ### Glad to see you here!  
