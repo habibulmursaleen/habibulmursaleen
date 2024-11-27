@@ -1,104 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is S M Habibul Mursaleen Chowdhury
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am S M Habibul Mursaleen Chowdhury
 =======================================================================================================================================================
 
-Software Developer
--------------
+# 💫 About Me:
+Glad to see you here!  
 
-<a href="https://sm-habibul-mursaleen-chowdhury.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/portfolio-%2300bfa6.svg?&style=for-the-badge&logo=web&logoColor=white" alt=portfolio style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/habibulmursaleen" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/habibulmursaleen" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/habibulmursaleen" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@chowdhurysmhabibulmursaleen" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+Hey there, fellow developers! 👨‍💻 I'm **S M Habibul Mursaleen Chowdhury**, a software engineer passionate about crafting elegant and functional interfaces. My GitHub reflects my commitment to clean, scalable code and my journey in exploring the vast world of web development.
 
+🛠️ Proficient in **React.js**, **Next.js**, and various UI libraries, I enjoy delving into front-end intricacies to create delightful user experiences. But my curiosity doesn’t stop there—I’m expanding my skills in backend technologies like **.NET Core** and **Java Spring Boot** and exploring the wonders of cloud infrastructures, particularly **Azure services**.
 
+📈 My repositories feature scalable web applications, industry-standard code build tools, and CI/CD pipeline automation. I'm a firm believer in continuous learning and the collaborative power of coding.
 
-### Glad to see you here!  
-Hey there, fellow developers! 👨‍💻 I'm S M Habibul Mursaleen Chowdhury, a software engineer passionate about crafting elegant and functional interfaces. My GitHub is a reflection of my commitment to clean, scalable code and my journey in exploring the vast world of web development.
+Let's connect, collaborate, and contribute to making impactful changes in the world of tech!
 
-🛠️ Proficient in React.js, Next.js, and various UI libraries, I love diving into the front-end intricacies to create delightful user experiences. But that's not where it stops - I'm actively expanding my skills to backend technologies like .NET Core and Java Spring Boot and exploring the wonders of cloud infrastructures, particularly Azure services.
+- 🔭 I’m currently based in **Oslo, Norway**.  
+- 🌱 I’m working as a Developer at **Kapital Kontroll**.  
+- ❓ My current focus is **.NET Core**, **React**, **Azure**, and following **Clean Architecture** and **Domain-Driven Design (DDD)** principles.  
+- ⚡ Fun fact: I always keep night shift mode switched on!  
 
-📈 You'll find repositories showcasing my work on scalable web applications, integration of industry-standard code build tools, and automation through CI/CD pipelines. I believe in continuous learning and the power of collaborative coding.
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/portfolio-%2300bfa6.svg?logo=web&logoColor=white&style=for-the-badge&)](https://sm-habibul-mursaleen-chowdhury.netlify.app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&)](https://linkedin.com/in/https://www.linkedin.com/in/habibulmursaleen) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge&)](https://medium.com/@https://medium.com/@chowdhurysmhabibulmursaleen) 
+[![Dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/habibulmursaleen) 
 
-Let's connect, collaborate, and make some impactful contributions to the world of tech!   
-  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-<br/>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=habibulmursaleen&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=habibulmursaleen&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=habibulmursaleen&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=habibulmursaleen&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## Rapidfire  
-<div valign="top" width="50%">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-- 🔭 I’m currently based on Oslo, Norway  
-  
-
-- 🌱 I’m currently working as Developer at Kapital Kontroll. 
-  
-
-- ❓ Currently working with .NET Core - React - Azure following Clean architecture and Domain-driven-Design. 
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-</div>  
-
-<br/>  
-
-
-## Languages and Tools  
-
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
-<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://cdn.sanity.io/images/o0o2tn5x/production/13b9c8412093e2f0cdb5495e1f59144967fa1664-512x512.jpg" alt="Cypress" height="50" /></a>
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" height="50" /></a>
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET Core" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>
-<br/>  
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=habibulmursaleen&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibulmursaleen&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=habibulmursaleen&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=habibulmursaleen&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-
