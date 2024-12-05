@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am S M Habibul Mursaleen Chowdhury
 =======================================================================================================================================================
-
-# 💫 About Me:
 Glad to see you here!  
 
 Hey there, fellow developers! 👨‍💻 I'm **S M Habibul Mursaleen Chowdhury**, a software engineer passionate about crafting elegant and functional interfaces. My GitHub reflects my commitment to clean, scalable code and my journey in exploring the vast world of web development.
